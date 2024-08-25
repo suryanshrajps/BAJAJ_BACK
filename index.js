@@ -50,9 +50,9 @@ app.post('/bfhl', async (req, res) => {
 
     const newUser = new User({
         is_success: true,
-        user_id: 'mehul_agarwal_10102001',
-        email: 'mehul.agarwal@gmail.com',
-        roll_number: '21BEC0961',
+        user_id: 'suryansh_raj_26072004',
+        email: 'suryanshraj.pratap2021@vitstudent.ac.in',
+        roll_number: '21BEC2032',
         numbers,
         alphabets,
         highest_lowercase_alphabet: highestLowercase
